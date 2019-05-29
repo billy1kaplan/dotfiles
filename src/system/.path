@@ -1,0 +1,6 @@
+export PATH="/usr/local/opt/postgresql@9.6/bin:$PATH"
+export PATH="/Users/billy/Library/geckodriver:$PATH"
+export PATH="/Users/billy/Tools/sonar-scanner-3.3.0.1492-macosx/bin:$PATH"
+export PATH="/Users/billy/.nix-profile/bin/cabal:$PATH"
+export PATH="/nix/store/smf6dvcjjwy5pwc34r97gc8ccacadc84-ghc-8.6.4/bin:$PATH"
+export NVM_DIR="$HOME/.nvm"

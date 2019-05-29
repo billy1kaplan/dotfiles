@@ -1,0 +1,10 @@
+alias es="exa -hHlSG --git"
+alias cat="bat"
+alias pip="pip3"
+alias python="python3"
+alias reload="source ~/.zshrc"
+
+# Git
+alias gd="git diff | bat"
+alias gdc="git diff --cached | bat"
+alias gs="git status"
