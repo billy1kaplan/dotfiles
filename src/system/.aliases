@@ -6,5 +6,11 @@ alias reload="source ~/.zshrc"
 
 # Git
 alias gd="git diff | bat"
+alias gb="git branch | bat"
 alias gdc="git diff --cached | bat"
 alias gs="git status"
+alias glo="git log --oneline --decorate --all --graph"
+
+#rails
+alias rs="rails server"
+alias rc="rails console"
