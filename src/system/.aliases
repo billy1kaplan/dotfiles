@@ -14,3 +14,10 @@ alias glo="git log --oneline --decorate --all --graph"
 #rails
 alias rs="rails server"
 alias rc="rails console"
+
+#tmux
+alias tm0="tmux a -t 0"
+alias tm1="tmux a -t 1"
+
+#python
+alias python="python3"
