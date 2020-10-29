@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo $(pwd)
+
+source ~/.dotfiles/src/zsh/.zshrc
+source ~/.dotfiles/src/zsh/.antigen
+
+for DOTFILE in ~/.dotfiles/src/system/.*
+do
+  [ -f "$DOTFILE" ] && source "$DOTFILE"
+done

@@ -1,2 +1,11 @@
 *.swp
 .prettierrc
+.vscode/
+work-log.txt
+**/file_line.rake
+
+.solargraph.yml
+**/config/definitions.rb
+
+**/_tmp_*
+TODO

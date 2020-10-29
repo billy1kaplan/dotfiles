@@ -21,3 +21,12 @@ alias tm1="tmux a -t 1"
 
 #python
 alias python="python3"
+alias pip="pip3"
+
+#vim
+alias vim="nvim"
+alias vi="nvim"
+
+# ncdu
+alias ncdug="ncdu --exclude-from .gitignore"
+alias ncdud="ncdu --exclude-from .dockerignore"
