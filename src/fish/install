@@ -1,0 +1,5 @@
+fisher install fishgretel/fasd
+fisher install edc/bass
+fisher install IlanCosman/tide
+fisher install jethrokuan/fzf
+fisher install jhillyerd/plugin-git
